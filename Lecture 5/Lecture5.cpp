@@ -1,10 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
-#pragma once
 #include <string>
 #include <optional>
 #include <iostream>
